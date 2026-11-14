@@ -1,6 +1,6 @@
 ---
 name: forking
-description: "Fork and clone GitHub repositories using the user's preferred GitHub Flow setup: create or reuse a fork under the authenticated user's GitHub account, clone it under ~/Projects using a lowercase source-owner directory and the repository name, add the original repository as the upstream remote, and set gh's default repository to upstream. Use whenever the user asks to fork, clone, check out, checkout, pull down, or start local work on a GitHub repository, including phrases such as 'check out this repo' and 'fork this repo'."
+description: "Use when forking or cloning Git repositories, or managing existing Git repository clones."
 ---
 
 # Forking
