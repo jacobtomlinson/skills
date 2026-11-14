@@ -21,6 +21,7 @@ Add `--global` to make an installed skill available across projects.
 
 ## Skills
 
+- `forking` — Fork and clone GitHub repositories using the preferred GitHub Flow.
 - `issue-writer` — Draft and revise concise, human-focused GitHub issues.
 
 Each skill lives in `skills/<skill-name>/` and contains a `SKILL.md` file with
